@@ -1,0 +1,38 @@
+<cc_char file_name="ugc.char.C-1056-1614734528129.xml" scale="1" yscale="1" hxscale="1" hyscale="1" headdx="0" headdy="0">
+<color r="ccSkinColor" oc="0xFFE1C4">0xFFCE95</color>
+<color r="ccEyeLib">0xFFCE95</color>
+<color r="ccEyeIris">0x000000</color>
+<color r="ccGlassesFrame">0xBE10B0</color>
+<color r="ccGlassesLens">0x737373</color>
+<color r="ccMouthLip">0x891258</color>
+<color r="ccMustache">0x008E39</color>
+<color r="ccBeard">0xFFFFFF</color>
+<color r="ccEyebrow">0x008E39</color>
+<color r="ccUpperMain" oc="0x336699">0x00FF9D</color>
+<color r="ccUpperMinor" oc="0xE5E5E5">0x008E39</color>
+<color r="ccLowerMain" oc="0xCCBC9A">0x008E39</color>
+<color r="ccLowerMinor" oc="0xEEEEEE">0x00FF9D</color>
+<color r="ccHairMajor">0x00FF9D</color>
+<color r="ccDecMajor" targetComponent="ID1547">0x00FF9D</color>
+<color r="ccDecMajor" targetComponent="ID3234">0x008E39</color>
+<color r="ccDecMajor" targetComponent="ID518">0x00FF9D</color>
+<color r="ccDecMajor" targetComponent="ID6062">0x00FF9D</color>
+<color r="ccDecMajor" targetComponent="ID5553">0x008E39</color>
+<component type="bodyshape" component_id="adam" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
+<component type="skeleton" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
+<component type="faceshape" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
+<component type="lower_body" component_id="adam_004" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
+<component type="hair" component_id="052" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
+<component type="mouth" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
+<component type="ear" component_id="006" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
+<component type="mustache" component_id="010" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
+<component type="eye" component_id="004" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
+<component type="eyebrow" component_id="101" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
+<component type="nose" component_id="014" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
+<component id="ID1547" type="facedecoration" component_id="071" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
+<component id="ID3234" type="facedecoration" component_id="076" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
+<component id="ID518" type="facedecoration" component_id="015a" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
+<component id="ID6062" type="facedecoration" component_id="015a" theme_id="family" x="0" y="-12" xscale="1" yscale="1" offset="0" rotation="0"/>
+<component id="ID5553" type="facedecoration" component_id="075" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
+<component type="upper_body" component_id="adam_005" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
+</cc_char>
